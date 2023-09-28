@@ -1,0 +1,5 @@
+Hello Professor, I hope you are doing well, I have a question on part two of Lab 3. I followed all of the instructions and copied all of Vector.h reluctantly and I am receiving this error which after looking into it seems to be related to corrupted memory. Since I did not write this program myself I'm not sure where to start especially since the program compiles it seems that I did not make a syntax error.
+
+Thanks,
+
+- Jaylon

@@ -1,0 +1,5 @@
+The efficiency of binary searching through a list is much slower than the efficiency of searching through a vector.
+This is because of the way that the data is stored between the two data types.
+Within a Vector the data is stored more linearly in that each recurring index is referenced in memory by adding one to the previous address.
+Within a List the data is stored in different places and not in a single block of memory.
+This increases the time it takes to search through every element in a list compared to a vector.
